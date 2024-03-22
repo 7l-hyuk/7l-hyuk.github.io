@@ -1,6 +1,6 @@
 ---
 layout: compress
-permalink: /assets/js/dist/:basename.min.js
+permalink: /_javascript/:basename.min.js
 ---
 
 if ('serviceWorker' in navigator) {

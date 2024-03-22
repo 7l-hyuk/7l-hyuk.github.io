@@ -4,7 +4,7 @@ import license from 'rollup-plugin-license';
 import path from 'path';
 
 const SRC_DEFAULT = '_javascript';
-const DIST_DEFAULT = 'assets/js/dist';
+const DIST_DEFAULT = '_javascript';
 const isProd = process.env.NODE_ENV === 'production';
 
 function build(filename) {

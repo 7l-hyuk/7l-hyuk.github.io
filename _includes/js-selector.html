@@ -11,7 +11,7 @@
 
 <!-- layout specified -->
 
-{% assign js_dist = '/assets/js/dist/' %}
+{% assign js_dist = '/_javascript/' %}
 
 {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'home' %}
   {% assign urls = urls | append: ',' | append: site.data.origin[type]['lazy-polyfill'].js %}
