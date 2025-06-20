@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "GI-HYUK KWON / Global Lectures"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "권기혁"
 description              : &description "personal description"
 url                      : https://7l-hyuk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "권기혁(GI-HYUK KWON)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "백엔드 개발자"
   location         : "Korea"
-  employer         : "Red Brick University"
+  employer         : "Sahmyook University (인공지능공학전공)"
   uri              : # URL
   email            : "7lhyuk@gmail.com" 
 
